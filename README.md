@@ -39,30 +39,46 @@ Toda conta bancária possui os seguintes dados
 
 h3 Requisitos Funcionais:
 
-Cliente:
-- Codigo
-- CPF
-- email
-- nome
-- telefone
+	# Cliente:
 
-Conta:
-- numero
--agencia
-- saldo
-- tipo
-- cod_cliente
+	- [ ] Código
+	- [ ] CPF
+	- [ ] Email
+	- [ ] Nome
+	- [ ] Telefone
+	
+	# Conta:
+
+	- [ ] Número
+	- [ ] Agência
+	- [ ] Saldo
+	- [ ] Tipo
+	- [ ] Cod_cliente
+
+
+## Contribuição:
   
-h3 Contribuição:
-  
-h3 Autores:
-  - Philippe Corrales
-  - Rogério RT
-  - Rian
-  - Marcos
-  - Nicole
-  - Shirley
+<table>
+  <tr>
+    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://github.com/lipecorrales" width="100px;" alt=""/><br /><sub><b>Philippe Corrales</b></sub></a><br /><a href="https://github.com/lipecorrales" title="Philippe Corrales">👨‍🚀</a></td>
+    
+  </tr>
+</table>
   
 h3 Licença
   
 h3 Agradecimentos:
+	
+	### Autor
+---
+
+<a href="https://github.com/lipecorrales">
+ <img style="border-radius: 50%;" src="#" width="100px;" alt=""/>
+ <br />
+ <sub><b>Philippe Corrales</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Philippe Corrales">🚀</a>
+
+
+Feito com ❤️ por Philippe Corrales 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Philippe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philippecorrales//)](https://www.linkedin.com/in/philippecorrales/) 
+[![Gmail Badge](https://img.shields.io/badge/-philippecorrales@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:philippecorrales@gmail.com)](mailto:philippecorrales@gmail.com)
