@@ -4,13 +4,13 @@
 
 # <h3> VISÃO GERAL <h3/>
   
-<h4> Sobre o Projeto <h4/>
+# <h4> Sobre o Projeto <h4/>
   
-<h3> Índice/Sumário <h3/>
+# <h3> Índice/Sumário <h3/>
   
   
 
-h2 Estamos em um contexto de gerenciamento de clientes e contas bancárias da instituição.
+Estamos em um contexto de gerenciamento de clientes e contas bancárias da instituição.
 Precisamos disponibilizar uma API que forneça dados de clientes e contas (inicialmente para
 consulta).
   
