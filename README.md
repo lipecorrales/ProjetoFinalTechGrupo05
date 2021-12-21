@@ -4,13 +4,13 @@
 
 # <h3> VISÃO GERAL
   
-  # h4 Sobre o Projeto
+h4 Sobre o Projeto
   
-  # h3 Índice/Sumário
+h3 Índice/Sumário
   
   
 
-# h2 Estamos em um contexto de gerenciamento de clientes e contas bancárias da instituição.
+h2 Estamos em um contexto de gerenciamento de clientes e contas bancárias da instituição.
 Precisamos disponibilizar uma API que forneça dados de clientes e contas (inicialmente para
 consulta).
   
@@ -21,7 +21,7 @@ OBJETIVOS:
 2.ESPECIFICAÇÕES
   
 Algumas tecnologias são obrigatórias para este projeto:
-  # h3 Tecnologias Usadas:
+h3 Tecnologias Usadas:
   
   - Banco de Dados: MySQL
   - API: SpringBoot
@@ -33,7 +33,7 @@ Toda conta bancária possui os seguintes dados
   - saldo
   - titular da conta (nome do titular)
 
-# h3 Requisitos Funcionais:
+h3 Requisitos Funcionais:
 
 Cliente:
 - Codigo
@@ -49,9 +49,9 @@ Conta:
 - tipo
 - cod_cliente
   
-  # h3 Contribuição:
+h3 Contribuição:
   
-  # h3 Autores:
+h3 Autores:
   - Philippe Corrales
   - Rogério RT
   - Rian
@@ -59,6 +59,6 @@ Conta:
   - Nicole
   - Shirley
   
-  # h3 Licença
+h3 Licença
   
-  # h3 Agradecimentos:
+h3 Agradecimentos:
