@@ -3,18 +3,28 @@
 # <h3> Projeto Final - ItauTECH
 
 # <h3> VISÃO GERAL
+  
+  # h4 Sobre o Projeto
+  
+  # h3 Índice/Sumário
+  
+  
 
-Estamos em um contexto de gerenciamento de clientes e contas bancárias da instituição.
+# h2 Estamos em um contexto de gerenciamento de clientes e contas bancárias da instituição.
 Precisamos disponibilizar uma API que forneça dados de clientes e contas (inicialmente para
 consulta).
-OBJETIVOS
+  
+OBJETIVOS:
 1. Construir uma API Spring BOOT que possua 2 endpoints principais:
   a. Recuperação de todas as contas bancárias
   b. Recuperação dos detalhes de 1 conta bancária (inclusive dados do seu titular)
 2.ESPECIFICAÇÕES
+  
 Algumas tecnologias são obrigatórias para este projeto:
-Banco de Dados: MySQL
-API: SpringBoot
+  # h3 Tecnologias Usadas:
+  
+  - Banco de Dados: MySQL
+  - API: SpringBoot
 Modelagem de Dados:
 Toda conta bancária possui os seguintes dados
   - numero
@@ -23,8 +33,8 @@ Toda conta bancária possui os seguintes dados
   - saldo
   - titular da conta (nome do titular)
 
+# h3 Requisitos Funcionais:
 
-Funções:
 Cliente:
 - Codigo
 - CPF
@@ -38,3 +48,17 @@ Conta:
 - saldo
 - tipo
 - cod_cliente
+  
+  # h3 Contribuição:
+  
+  # h3 Autores:
+  - Philippe Corrales
+  - Rogério RT
+  - Rian
+  - Marcos
+  - Nicole
+  - Shirley
+  
+  # h3 Licença
+  
+  # h3 Agradecimentos:
