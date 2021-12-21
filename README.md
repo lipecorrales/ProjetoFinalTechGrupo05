@@ -1,12 +1,12 @@
 # ProjetoFinalTechGrupo05
 
-# <h3> Projeto Final - ItauTECH
+# <h3> Projeto Final - ItauTECH <h3/>
 
-# <h3> VISÃO GERAL
+# <h3> VISÃO GERAL <h3/>
   
-h4 Sobre o Projeto
+<h4> Sobre o Projeto <h4/>
   
-h3 Índice/Sumário
+<h3> Índice/Sumário <h3/>
   
   
 
