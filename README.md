@@ -1,8 +1,8 @@
 # ProjetoFinalTechGrupo05
 
-h3 Projeto Final - ItauTECH
+# <h3> Projeto Final - ItauTECH
 
-h3 VISÃO GERAL
+# <h3> VISÃO GERAL
 
 Estamos em um contexto de gerenciamento de clientes e contas bancárias da instituição.
 Precisamos disponibilizar uma API que forneça dados de clientes e contas (inicialmente para
