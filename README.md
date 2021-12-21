@@ -17,11 +17,11 @@ Banco de Dados: MySQL
 API: SpringBoot
 Modelagem de Dados:
 Toda conta bancária possui os seguintes dados
-  ● numero
-  ● agência
-  ● tipo da conta (0 - conta corrente, 1 - poupança, 2 - investimento)
-  ● saldo
-  ● titular da conta (nome do titular)
+  - numero
+  - agência
+  - tipo da conta (0 - conta corrente, 1 - poupança, 2 - investimento)
+  - saldo
+  - titular da conta (nome do titular)
 
 
 Funções:
