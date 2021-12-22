@@ -73,23 +73,8 @@ Toda conta bancária possui os seguintes dados
     <td align="center"><a href="https://github.com/marcosalexandre100"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/20006038/147101465-d05a139d-b7fa-4ef2-8786-4bbfac1b2f52.jpeg" width="100px;" alt=""/><br /><sub><b>Marcos Alexandre</b></sub></a><br /><a href="https://github.com/marcosalexandre100" title="Marcos Alexandre">🚀</a></td>
     
     
-  </tr>
-</table>
-	
-# <h3> Licença <h3/>
+##Ferramenta:
+Visual Studio Code Windows
+Postman
+MySQL Workbench 8.0 CE	  
   
-# <h3> Agradecimentos <h3/>
-	
-	### Autor
----
-
-<a href="https://github.com/lipecorrales">
- <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/20006038/147094169-03901179-e080-4dae-8236-666f32e42482.jpg" width="100px;" alt="" />
- <br />
- <sub><b>Philippe Corrales</b></sub></a> <a href="https://github.com/lipecorrales" title="Philippe Corrales">🚀</a>
-
-
-Feito com ❤️ por Philippe Corrales 👋🏽 Entre em contato!
-
-[![Linkedin Badge](https://img.shields.io/badge/-Philippe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philippecorrales//)](https://www.linkedin.com/in/philippecorrales/) 
-[![Gmail Badge](https://img.shields.io/badge/-philippecorrales@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:philippecorrales@gmail.com)](mailto:philippecorrales@gmail.com)
