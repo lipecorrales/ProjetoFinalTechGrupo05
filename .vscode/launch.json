@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Projetogrupo05Application<projetogrupo05>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.projetogrupo05.projetogrupo05.Projetogrupo05Application",
+            "projectName": "projetogrupo05",
+            "args": ""
+        }
+    ]
+}
