@@ -3,7 +3,7 @@
 # <h3> Projeto Final - ItauTECH <h3/>
 
 <h1 align="center">
-  <img alt="ProjetoFinalTechGrupo05" title="ProjetoFinalTechGrupo05" src="https://user-images.githubusercontent.com/dd054f30db.png"/>
+  <img alt="ProjetoFinalTechGrupo05" title="ProjetoFinalTechGrupo05" src="https://user-images.githubusercontent.com/https://user-images.githubusercontent.com/20006038/147109260-0577a8dd-d1d3-41a3-99be-9962140b6b17.jpeg"/>
 </h1>
 
 # <h3> VISÃO GERAL <h3/>
