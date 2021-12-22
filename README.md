@@ -37,7 +37,7 @@ Toda conta bancária possui os seguintes dados
   - saldo
   - titular da conta (nome do titular)
 
-h3 Requisitos Funcionais:
+# <h3> Requisitos Funcionais: <h3/>
 
 	# Cliente:
 
@@ -60,14 +60,14 @@ h3 Requisitos Funcionais:
   
 <table>
   <tr>
-    <td align="center"><a href="https://rocketseat.com.br"><img style="border-radius: 50%;" src="https://github.com/lipecorrales" width="100px;" alt=""/><br /><sub><b>Philippe Corrales</b></sub></a><br /><a href="https://github.com/lipecorrales" title="Philippe Corrales">👨‍🚀</a></td>
+    <td align="center"><a href="https://github.com/lipecorrales"><img style="border-radius: 50%;" src="https://github.com/lipecorrales" width="100px;" alt=""/><br /><sub><b>Philippe Corrales</b></sub></a><br /><a href="https://github.com/lipecorrales" title="Philippe Corrales">👨‍🚀</a></td>
     
   </tr>
 </table>
   
-h3 Licença
+# <h3> Licença <h3/>
   
-h3 Agradecimentos:
+# <h3> Agradecimentos <h3/>
 	
 	### Autor
 ---
@@ -75,7 +75,7 @@ h3 Agradecimentos:
 <a href="https://github.com/lipecorrales">
  <img style="border-radius: 50%;" src="#" width="100px;" alt=""/>
  <br />
- <sub><b>Philippe Corrales</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Philippe Corrales">🚀</a>
+ <sub><b>Philippe Corrales</b></sub></a> <a href="https://github.com/lipecorrales" title="Philippe Corrales">🚀</a>
 
 
 Feito com ❤️ por Philippe Corrales 👋🏽 Entre em contato!
