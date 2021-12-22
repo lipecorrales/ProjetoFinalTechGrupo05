@@ -73,7 +73,3 @@ Toda conta bancária possui os seguintes dados
     <td align="center"><a href="https://github.com/marcosalexandre100"><img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/20006038/147101465-d05a139d-b7fa-4ef2-8786-4bbfac1b2f52.jpeg" width="100px;" alt=""/><br /><sub><b>Marcos Alexandre</b></sub></a><br /><a href="https://github.com/marcosalexandre100" title="Marcos Alexandre">🚀</a></td>
     
     
-## Ferramenta:
-	  - Visual Studio Code
-	  - Postman
-	  - MySQL Workbench 8.0 CE
