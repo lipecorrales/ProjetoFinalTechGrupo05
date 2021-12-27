@@ -5,7 +5,10 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.OneToMany;
 import javax.persistence.Table;
+
+import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 @Entity
 @Table(name = "cliente")
@@ -27,6 +30,21 @@ public class Client {
 
     @Column(name = "telefone", length = 20, nullable = false)
     private String telephone;
+
+    @OneToMany(mappedBy = "titular")
+    @JsonIgnoreProperties("titular")
+    private List<AccountBancaria> accounts;
+
+    public Client(){
+
+    }
+
+    public Client (String nome, String cpf, String telefone, String email) {
+        this.nome = nome;
+        this.cpf = cpf;
+        this.telefone = telefone;
+        this.email = email;
+    }
 
     public long getCod() {
         return cod;
@@ -67,8 +85,7 @@ public class Client {
     public void setTelephone(String telephone) {
         this.telephone = telephone;
     } 
-
-    
+   
     
 
 }
