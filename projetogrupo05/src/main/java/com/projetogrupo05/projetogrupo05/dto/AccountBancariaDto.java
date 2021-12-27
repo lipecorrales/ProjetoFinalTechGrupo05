@@ -1,5 +1,10 @@
 package com.projetogrupo05.projetogrupo05.dto;
 
+import java.util.List;
+
+import com.projetogrupo05.projetogrupo05.model.AccountBancaria;
+import com.projetogrupo05.projetogrupo05.repository.AccountRepo;
+
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
