@@ -40,7 +40,7 @@ public class Client {
     @JsonIgnoreProperties("titular")
     private List<AccountBank> contas;
 
-        public Client() {
+        /*public Client() {
             
         }
 
@@ -49,7 +49,7 @@ public class Client {
             this.cpf = cpf;
             this.telefone = telefone;
             this.email = email;
-        }
+        }*/
 
         public long getCodigo() {
             return codigo;

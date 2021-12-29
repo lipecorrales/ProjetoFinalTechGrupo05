@@ -10,11 +10,13 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PutMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/cliente")
+@RequestMapping("/conta")
 @CrossOrigin("*")
 public class AccountController {
     
@@ -35,5 +37,24 @@ public class AccountController {
         } else {
             return ResponseEntity.notFound().build();
         }
+    }
+
+
+    @PutMapping("/debito") // Debitar na conta
+    public ResponseEntity<AccountBank> debtAccountBank(@RequestBody AccountBank accountBank) {
+        AccountBank accountInserid = dtoAccountBank.debtAccountBank(accountBank);
+        if(accountInserid != null){
+            return ResponseEntity.ok(accountInserid);
+        }
+        return ResponseEntity.notFound().build();
+    }
+
+    @PutMapping("/credito") // Creditar na conta
+    public ResponseEntity<AccountBank> creditAccountBank(@RequestBody AccountBank accountBank) {
+        AccountBank accountInserid = dtoAccountBank.creditAccountBank(accountBank);
+        if(accountInserid != null){
+            return ResponseEntity.ok(accountInserid);
+        }
+        return ResponseEntity.notFound().build();
     }
 }

@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("conta")
+@RequestMapping("/cliente")
 @CrossOrigin("*")
 public class ClientController {
     
@@ -22,6 +22,9 @@ public class ClientController {
     @PostMapping("/novo") // Cadastrar novos clientes
     public ResponseEntity<Client> newClient(@RequestBody Client client) {
         Client clientInserid = dtoClient.newClient(client);
-        return ResponseEntity.ok(clientInserid);
+        if(clientInserid != null){
+            return ResponseEntity.ok(clientInserid);
+        }
+        return ResponseEntity.notFound().build();
     }
 }

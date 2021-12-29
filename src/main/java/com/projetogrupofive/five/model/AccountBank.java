@@ -24,7 +24,7 @@ public class AccountBank {
     @Column(name = "agencia")
     private int agencia;
 
-    @Column(name = "saldo")
+    @Column(name = "saldo", nullable = false)
     private double saldo;
 
     @Column(name = "tipo")
@@ -59,14 +59,6 @@ public class AccountBank {
         this.saldo = saldo;
     }
 
-    public Client getTitular() {
-        return titular;
-    }
-
-    public void setTitular(Client titular) {
-        this.titular = titular;
-    }
-
     public int getTipoConta() {
         return tipoConta;
     }
@@ -74,4 +66,12 @@ public class AccountBank {
     public void setTipoConta(int tipoConta) {
         this.tipoConta = tipoConta;
     }
+
+    public Client getTitular() {
+        return titular;
+    }
+
+    public void setTitular(Client titular) {
+        this.titular = titular;
+    }    
 }

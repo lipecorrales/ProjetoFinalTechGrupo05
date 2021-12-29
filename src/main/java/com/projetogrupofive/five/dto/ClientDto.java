@@ -13,7 +13,14 @@ public class ClientDto {
     private ClientRepo repoClient;
 
     public Client newClient(Client ClientNew) {
-        Client clientInserid = repoClient.save(ClientNew);
-        return clientInserid;
+        Client cpfClienteEncontrado = repoClient.findByCpf(ClientNew.getCpf());//Verifico se Cpf já existe
+        Client emailClienteEncontrado = repoClient.findByEmail(ClientNew.getEmail());// Verifico se o email já existe
+
+        if( cpfClienteEncontrado == null && emailClienteEncontrado == null){
+            Client clientInserid = repoClient.save(ClientNew);
+            return clientInserid;
+        }
+
+        return null;
     }
 }
