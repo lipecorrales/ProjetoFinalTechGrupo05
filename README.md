@@ -1,4 +1,4 @@
-<h1 align="center">Projeto Final Tech Grupo 05</h1>
+# Projeto Final Tech Grupo 05
 
 # <h3> Projeto Final - ItauTECH <h3/>
 
