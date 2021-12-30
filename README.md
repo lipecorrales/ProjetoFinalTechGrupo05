@@ -1,6 +1,6 @@
 # Projeto Final Tech Grupo 05
 
-# <h3> Projeto Final - ItauTECH: <h3/>
+# <h3> Projeto Final - ItauTECH 🚀: <h3/>
 
 <h1 align="center">
   <img alt="ProjetoFinalTechGrupo05" title="ProjetoFinalTechGrupo05" src="https://user-images.githubusercontent.com/20006038/147109260-0577a8dd-d1d3-41a3-99be-9962140b6b17.jpeg" />
@@ -8,11 +8,6 @@
 
 <p style="color: orange;">O Desafio Final - ItauTECH é um projeto em grupo que foi desenvolvido durante o Programa de Formação Tech do Itaú em parceria com a Gama Academy</p>
 
-# <h3> VISÃO GERAL <h3/>
-	
- 🚧Projeto Final Tech - Grupo 05 🚀 Em construção!🚧
-  </h4>
-  
 #
 ### Topicos:
 
