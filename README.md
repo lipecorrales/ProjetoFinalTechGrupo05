@@ -9,8 +9,6 @@
 <p style="color: orange;">O Desafio Final - ItauTECH é um projeto em grupo que foi desenvolvido durante o Programa de Formação Tech do Itaú em parceria com a Gama Academy</p>
 
 # <h3> VISÃO GERAL <h3/>
-  
-# <h3> SOBRE O PROJETO <h3/>  
 	
  🚧Projeto Final Tech - Grupo 05 🚀 Em construção!🚧
   </h4>
