@@ -56,7 +56,7 @@
 #
 ### Desafio:
 <p>Estamos em um contexto de gerenciamento de clientes e contas bancárias da instituição, e
-precisamos disponibilizar uma API que forneça dados de clientes e contas inicialmente para
+precisamos disponibilizar uma `API` que forneça dados de clientes e contas inicialmente para
 consulta!</p>
 	
 #
