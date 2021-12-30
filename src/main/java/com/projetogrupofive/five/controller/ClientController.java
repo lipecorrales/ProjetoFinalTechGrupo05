@@ -1,7 +1,10 @@
 package com.projetogrupofive.five.controller;
 
+import java.util.List;
+
 import com.projetogrupofive.five.dto.ClientDto;
 import com.projetogrupofive.five.model.Client;
+import com.projetogrupofive.five.repository.ClientRepo;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
@@ -27,4 +30,15 @@ public class ClientController {
         }
         return ResponseEntity.notFound().build();
     }
+
+    @Autowired
+    private ClientRepo repo;
+
+    public List<Client> listarTodos(){  // metodoo para buscar todos os clientes
+        List<Client> lista = (List<Client>) repo.findAll();
+
+        return lista;
+    }
+
+
 }
