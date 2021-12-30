@@ -10,7 +10,7 @@
 
 # <h3> VISÃO GERAL <h3/>
   
-# <h4> Sobre o Projeto <h4/> 
+<h4> Sobre o Projeto <h4/>  
  🚧Projeto Final Tech - Grupo 05 🚀 Em construção!🚧
   </h4>
   
@@ -60,7 +60,7 @@ consulta!</p>
 	
 #
 
-### Tecnologias utilizadas: 
+### Tecnologias Utilizadas: 
 
 ### Objetivos:
 Construir uma API Spring BOOT que possua 2 endpoints principais:
