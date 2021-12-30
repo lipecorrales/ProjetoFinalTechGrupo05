@@ -1,19 +1,13 @@
 # Projeto Final Tech Grupo 05
 
-# <h3> Projeto Final - ItauTECH <h3/>
+# <h3> Projeto Final - ItauTECH 🚀: <h3/>
 
 <h1 align="center">
   <img alt="ProjetoFinalTechGrupo05" title="ProjetoFinalTechGrupo05" src="https://user-images.githubusercontent.com/20006038/147109260-0577a8dd-d1d3-41a3-99be-9962140b6b17.jpeg" />
 </h1>
 
-<p style="color: orange;">O Desafio Final - ItauTECH é um projeto em grupo que foi desenvolvido durante o Programa de Formação Tech do Itaú em parceria com a Gama Academy</p>
+<p style="color: orange;">O Desafio Final - ItauTECH é um projeto em grupo que foi desenvolvido durante o Programa de Formação Tech do Itaú em parceria com a Gama Academy.</p>
 
-# <h3> VISÃO GERAL <h3/>
-  
-# <h4> Sobre o Projeto <h4/> 
- 🚧Projeto Final Tech - Grupo 05 🚀 Em construção!🚧
-  </h4>
-  
 #
 ### Topicos:
 
@@ -31,27 +25,33 @@
 <summary>Philippe Corrales</summary>
 	
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippecorrales/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lipecorrales)
 
 <summary>Rogério Tavares</summary>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogtavares/)
-
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rogtavares)
+	
 <summary>Nicole Ferreira</summary>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-ferreira-8438a4139/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lefeani)
 
 <summary>Rian Rodrigues</summary>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-rodrigues-pcd-08447270/)
-
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rianrodrigues16)
+	
 <summary>Shirley Coelho</summary>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/shirley-esteves-5786a9187)
-
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shirley1317)
+	
 <summary>Marcos Alexandre</summary>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-alexandre-gomes-cea/)
-
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcosalexandre100)
+	
 #
 ### Desafio:
 <p>Estamos em um contexto de gerenciamento de clientes e contas bancárias da instituição, e
@@ -60,7 +60,7 @@ consulta!</p>
 	
 #
 
-### Tecnologias utilizadas: 
+### Tecnologias Utilizadas: 
 
 ### Objetivos:
 Construir uma API Spring BOOT que possua 2 endpoints principais:

@@ -13,7 +13,7 @@ import javax.persistence.Table;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 
-@Entity 
+@Entity //indica que esta classe sera armazenada no banco de dados
 @Table(name = "tb_cliente")
 public class Client {
     
@@ -23,7 +23,7 @@ public class Client {
     @Column(name = "codigo")
     private long codigo;
 
-    @Column(name = "nome", length = 200, nullable = false)
+    @Column(name = "nome", length = 200, nullable = false) //nullable campo obrigatorio
     private String nome;
 
     @Column(name = "cpf", length = 12, nullable = false, unique = true) // unique = não pode ter 2 cpfs iguais
