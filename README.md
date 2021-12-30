@@ -28,27 +28,27 @@
 
 ### Entre em contato conosco:
     
-<summary>Philippe Corrales</summary>
+- <summary>Philippe Corrales</summary>
 	
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/philippecorrales/)
 
-<summary>Rogério Tavares</summary>
+- <summary>Rogério Tavares</summary>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rogtavares/)
 
-<summary>Nicole Ferreira</summary>
+- <summary>Nicole Ferreira</summary>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-ferreira-8438a4139/)
 
-<summary>Rian Rodrigues</summary>
+- <summary>Rian Rodrigues</summary>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rian-rodrigues-pcd-08447270/)
 
-<summary>Shirley Coelho</summary>
+- <summary>Shirley Coelho</summary>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/shirley-esteves-5786a9187)
 
-<summary>Marcos Alexandre</summary>
+- <summary>Marcos Alexandre</summary>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-alexandre-gomes-cea/)
 
