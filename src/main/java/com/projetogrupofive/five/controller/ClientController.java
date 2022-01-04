@@ -34,7 +34,7 @@ public class ClientController {
     @Autowired
     private ClientRepo repo;
 
-    public List<Client> listarTodos(){  // metodoo para buscar todos os clientes
+    public List<Client> listarTodos(){  // metodo para buscar todos os clientes
         List<Client> lista = (List<Client>) repo.findAll();
 
         return lista;
