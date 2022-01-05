@@ -123,7 +123,7 @@ Todos os dados devem ser retornados em formato JSON.
 
 Visual Studio Code
 
-Postman
+Thunder
 
 MySQL Workbench 8.0 CE
 
