@@ -6,8 +6,10 @@ import com.projetogrupofive.five.dto.AccountBankDto;
 import com.projetogrupofive.five.model.AccountBank;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PutMapping;
@@ -56,5 +58,18 @@ public class AccountController {
             return ResponseEntity.ok(accountInserid);
         }
         return ResponseEntity.notFound().build();
+    }
+
+    @DeleteMapping("/excluir/{numero}")
+    public ResponseEntity<Void> deleteAccountBank(@PathVariable long numero) {
+        String accountDelete = dtoAccountBank.deleteAccountBank(numero);
+
+        if(accountDelete == "ok"){
+            return ResponseEntity.status(HttpStatus.NO_CONTENT).build();
+        } else if (accountDelete == "erro"){
+            return ResponseEntity.status(HttpStatus.BAD_REQUEST).build();
+        }else{
+            return ResponseEntity.notFound().build();
+        }
     }
 }

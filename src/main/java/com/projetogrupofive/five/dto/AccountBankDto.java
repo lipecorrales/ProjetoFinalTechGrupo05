@@ -65,4 +65,20 @@ public class AccountBankDto {
         }
         return null;        
     }
+
+    public String deleteAccountBank(long accountNumber) {//excluir
+        AccountBank accountBank = repoAccount.findById(accountNumber).orElse(null);
+
+        if(accountBank != null){
+            if(accountBank.getSaldo() == 0){
+                try{
+                    repoAccount.deleteById(accountNumber);
+                    return "ok";
+                }catch (Exception e) {
+                    return "erro";
+                }
+            }
+        }
+        return null;        
+    }
 }
