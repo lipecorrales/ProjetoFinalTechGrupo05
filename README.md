@@ -3,7 +3,7 @@
 # <h3> Projeto Final - ItauTECH 🚀: <h3/>
 
 <h1 align="center">
-  <img alt="ProjetoFinalTechGrupo05" title="ProjetoFinalTechGrupo05" src="https://user-images.githubusercontent.com/20006038/147109260-0577a8dd-d1d3-41a3-99be-9962140b6b17.jpeg" />
+  <img alt="ProjetoFinalTechGrupo05" title="ProjetoFinalTechGrupo05" src="https://user-images.githubusercontent.com/20006038/148591948-aaee6b6a-13f1-4c80-871c-b28e95eeeb27.jpeg" />
 </h1>
 
 <p style="color: orange;">O Desafio Final - ItauTECH é um projeto em grupo que foi desenvolvido durante o Programa de Formação Tech do Itaú em parceria com a Gama Academy.</p>
