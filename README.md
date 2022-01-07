@@ -125,7 +125,7 @@ Visual Studio Code
 
 Thunder
 
-MySQL Workbench 8.0 CE
+MySQL Workbench 8.0 CE . 
 
 #
 <div style="display: inline_block">
