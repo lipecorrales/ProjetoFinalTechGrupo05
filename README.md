@@ -123,6 +123,7 @@ Todos os dados devem ser retornados em formato JSON.
 ## Consultas Extras:
 
 Endpoint para incluir novo cliente: 
+
     /cliente/novo
 
 Endpoint para debitar saldo da conta:
