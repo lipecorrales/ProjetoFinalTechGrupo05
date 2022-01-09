@@ -110,13 +110,32 @@ Todo cliente possui os seguintes dados para serem cadastrados
 Endpoint para consulta de todas as contas (deve retornar uma lista de objetos do tipo
 que armazena Conta Bancária):
 
-    /contas
+    /conta/contas
 
 Endpoint para consultas do detalhe da conta
 
-    /contas/{id}
+    /conta/contas/{id}
 
 Todos os dados devem ser retornados em formato JSON.
+
+#
+
+## Consultas Extras:
+
+Endpoint para incluir novo cliente: 
+    /cliente/novo
+
+Endpoint para debitar saldo da conta:
+
+    /conta/debito
+
+Endpoint para creditar saldo da conta:
+
+    /conta/credito
+
+Endpoint para deletar conta se saldo estiver zerado:
+
+    /conta//excluir/{numero}
 
 #
 ### Ferramenta:
