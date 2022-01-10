@@ -166,3 +166,8 @@ C#
 Agradeço à nosso orientadores e professores: seu apoio, orientação e idéias fizeram desta uma experiência inspiradora para nosso grupo. 
 
 Também gostaria de agradecer à Grupo GAMA e ITAU-UNIBANCO por apoiar nosso grupo durante todo o período de estudo até a finalização deste nosso projeto Projeto Final Tech Grupo 05. <BART/>
+
+
+<h1 align="center">
+  <img alt="Obrigado - Grupo 05" title="ProjetoFinalTechGrupo05" src="https://user-images.githubusercontent.com/20006038/148777885-265365a4-d84d-44f7-9b9a-f8b07a414191.jpg" />
+</h1>
