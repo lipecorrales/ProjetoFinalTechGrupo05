@@ -62,7 +62,7 @@ consulta!</p>
 
 ### Tecnologias Utilizadas: 
 ● `JAVA`
-● `SPING BOOT` 
+● `SPRING BOOT` 
 ● `MYSQL` 
 ● `THUNDER CLIENT` 
 
