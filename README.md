@@ -158,3 +158,6 @@ C#
 
 ### Agredecimentos :
 	
+Agradeço à nosso orientadores e professores: seu apoio, orientação e idéias fizeram desta uma experiência inspiradora para nosso grupo . 
+
+Também gostaria de agradecer à Grupo GAMA e ITAU-UNIBANCO por apoiar nosso grupo  durante todo o período de estudo até a finalização deste nosso projeto Projeto Final Tech Grupo 05 <BART/>
