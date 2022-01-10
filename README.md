@@ -146,6 +146,8 @@ Visual Studio Code
 Thunder
 
 MySQL Workbench 8.0 CE
+	
+C#
 
 #
 <div style="display: inline_block">
@@ -154,4 +156,5 @@ MySQL Workbench 8.0 CE
     <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-
+### Agredecimentos :
+	
