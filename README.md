@@ -61,7 +61,10 @@ consulta!</p>
 #
 
 ### Tecnologias Utilizadas: 
-	
+● `JAVA`
+● `SPING BOOT` 
+● `MYSQL` 
+● `THUNDER CLIENT` 
 
 ### Objetivos:
 Construir uma API Spring BOOT que possua 2 endpoints principais:
@@ -155,10 +158,11 @@ C#
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img align="center" alt="Mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img align="center" alt="C#" src="https://img.shields.io/badge/C#-00000F?style=for-the-badge&logo=c#&logoColor=white" />
 </div>
 
-### Agredecimentos :
+### Agredecimentos:
 	
-Agradeço à nosso orientadores e professores: seu apoio, orientação e idéias fizeram desta uma experiência inspiradora para nosso grupo . 
+Agradeço à nosso orientadores e professores: seu apoio, orientação e idéias fizeram desta uma experiência inspiradora para nosso grupo. 
 
-Também gostaria de agradecer à Grupo GAMA e ITAU-UNIBANCO por apoiar nosso grupo  durante todo o período de estudo até a finalização deste nosso projeto Projeto Final Tech Grupo 05 - BART.
+Também gostaria de agradecer à Grupo GAMA e ITAU-UNIBANCO por apoiar nosso grupo durante todo o período de estudo até a finalização deste nosso projeto Projeto Final Tech Grupo 05 <BART/>
