@@ -1,6 +1,6 @@
 # Projeto Final Tech Grupo 05
 
-# <h3> Projeto Final - ItauTECH 🚀: <h3/>
+# <h3> Projeto Final - ItauTECH 🚀: GRUPO 05 - BART <h3/>
 
 <h1 align="center">
   <img alt="ProjetoFinalTechGrupo05" title="ProjetoFinalTechGrupo05" src="https://user-images.githubusercontent.com/20006038/148591948-aaee6b6a-13f1-4c80-871c-b28e95eeeb27.jpeg" />
